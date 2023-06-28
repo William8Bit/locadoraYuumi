@@ -1,2 +1,2 @@
-# locadoraYuumi
+# Locadora Yuumi
 Projeto para estudos
